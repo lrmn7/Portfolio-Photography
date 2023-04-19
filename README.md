@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-photography.vercel.app/" target="_blank">Live Preview</a>
+  <a href="https://lrmn-photography.vercel.app/" target="_blank">Live Preview</a>
 </div>
 
 <div align="center">
